@@ -1,2 +1,22 @@
-# Image-Encryption-Project
-Develop a simple image encryption tool using pixel manipulation. Support operations like swapping pixel values or applying a basic mathematical operation to each pixel.
+# Image Encryption Project
+
+This project demonstrates a simple image encryption and decryption tool using Python and Pillow (PIL).
+
+## Features
+- Image Encryption
+- Image Decryption
+- Pixel Manipulation
+- PNG Image Support
+
+## Technologies Used
+- Python
+- Pillow (PIL)
+
+## Project Files
+- Image_Encryption.py
+- input.png
+- encrypted.png
+- decrypted.png
+
+## Author
+Tahreem Fatima
